@@ -44,7 +44,7 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>???</title></titleInfo></relatedItem>
 
-<!-- call number -->
+<classification authority="lcc">{{cells['classification'].value}}</classification>
 
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 
