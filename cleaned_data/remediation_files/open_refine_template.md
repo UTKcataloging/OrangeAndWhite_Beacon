@@ -42,7 +42,7 @@
 
 {{if(isBlank(cells['language'].value), '', '<language><languageTerm type="text" authority="iso639-2b">' + cells['language'].value + '</languageTerm></language>')}}
 
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>???</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>The Daily Beacon</title></titleInfo></relatedItem>
 
 <classification authority="lcc">{{cells['classification'].value}}</classification>
 
