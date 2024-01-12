@@ -21,7 +21,7 @@
 {{if(isBlank(cells['abstract'].value), '', '<abstract>' + cells["abstract"].value + '</abstract>')}}
 
 <originInfo>
-{{if(isBlank(cells['Issue Date'].value), '', '<dateIssued>' + cells['Issue Date'].value + '</dateCreated><dateCreated encoding="edtf">' + cells['Issue Date EDTF'].value + '</dateCreated>')}}
+{{if(isBlank(cells['Issue Date'].value), '', '<dateIssued>' + cells['Issue Date'].value + '</dateIssued><dateIssued encoding="edtf">' + cells['Issue Date EDTF'].value + '</dateIssued>')}}
 {{if(isBlank(cells['place_of_publication'].value), '', '<place><placeTerm valueURI="' + cells['place_of_publication_URI'].value + '">' + cells['place_of_publication'].value + '</placeTerm></place>')}}
 </originInfo>
 
