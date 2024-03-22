@@ -4,14 +4,14 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">1948092901</identifier>
+   <identifier type="local">1948092902</identifier>
+   <identifier type="pid">beacon:17466</identifier>
    <titleInfo supplied="yes">
       <title>The orange and white, September 29, 1948</title>
    </titleInfo>
    <titleInfo type="alternative">
       <title>The orange and white, volume 44, issue 2</title>
    </titleInfo>
-   <abstract>Freshman edition.</abstract>
    <originInfo>
       <dateIssued>September 29, 1948</dateIssued>
       <dateIssued encoding="edtf">1948-09-29</dateIssued>
