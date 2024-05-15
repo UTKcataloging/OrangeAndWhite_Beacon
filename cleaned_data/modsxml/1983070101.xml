@@ -9,7 +9,7 @@
       <title>The daily beacon, July 1, 1983</title>
    </titleInfo>
    <titleInfo type="alternative">
-      <title>The daily beacon, volume 34, issue 1</title>
+      <title>The daily beacon, volume 34, issue 4</title>
    </titleInfo>
    <originInfo>
       <dateIssued>July 1, 1983</dateIssued>
@@ -34,6 +34,7 @@
          <namePart>Knoxville (Tenn.)</namePart>
       </name>
    </subject>
+   <note>The issue number is incorrectly printed on the source material.</note>
    <typeOfResource>text</typeOfResource>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>
